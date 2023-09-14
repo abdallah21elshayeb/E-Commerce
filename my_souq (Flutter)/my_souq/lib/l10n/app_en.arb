@@ -1,0 +1,43 @@
+{
+
+    "home": "Home",
+    "about": "About Us!",
+    "account": "Account",
+    "cart": "Cart",
+    "searchInSouq": "Search in My Souq....",
+    "addressOf": "Address Of",
+  
+
+  
+    "mobiles": "Mobiles",
+    "appliances": "Appliances",
+    "fashion": "Fashion",
+    "essentials": "Essentials",
+    "computers": "Computers",
+
+  
+  "dealOfTheDay": "deal Of The Day",
+  "eligibleForFreeShipping": "Eligible for FREE Shipping",
+  "inStock": "In Stock",
+
+  "offer": "Offers",
+
+  "hello": "Hello",
+  "logOut": "Log Out",
+  "wishList": "wish List",
+  "adminTools": "Admin Tools",
+  "stop": "Stop",
+  "stopMsg": "Do you want to log out ?",
+  "ok": "Ok",
+  "cancel": "cancel",
+  
+  "orders": "Orders",
+  "status": "Status",
+  "amount": "Amount",
+  "order": "Order",
+  "view": "View",
+
+  "subtotal": "Subtotal",
+  "proceedToBuy": "Proceed To Buy"
+
+}

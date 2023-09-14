@@ -1,0 +1,42 @@
+{
+
+    "home": "الرئيسية",
+    "about": "حول الموقع!",
+    "account": "الحساب",
+    "cart": "السلة",
+    "searchInSouq": "أبحث في المتجر.....",
+    "addressOf": "عنوان",
+
+
+
+    "mobiles": "الهواتف",
+    "appliances": "الأجهزة",
+    "fashion": "الملابس",
+    "essentials": "الأساسيات",
+    "computers": "الكمبيوتر",
+
+  
+  "dealOfTheDay": "صفقة اليوم",
+  "eligibleForFreeShipping": "التوصيل مجاني ",
+  "inStock": "متوفر",
+
+  "offer": "عروض",
+
+  "hello": "مرحبا",
+  "logOut": "تسجيل الخروج",
+  "wishList": "قائمة الامنيات",
+  "adminTools": "تحكمات الادمن",
+  "stop": "انتبه",
+  "stopMsg": "هل تريد تسجيل الخروج؟",
+  "ok": "موافق",
+  "cancel": "الغاء",
+  
+  "orders": "الطلبات",
+  "status": "الحالة",
+  "amount": "الكمية",
+  "order": "الطلب",
+  "view": "عرض",
+
+  "subtotal": "المجموع الفرعي",
+  "proceedToBuy": "تابع عملية الشراء"
+}
